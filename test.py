@@ -6,3 +6,4 @@ def sub(a,b):
 	return a-b
 
 add(5,3)
+sub(5,3)
